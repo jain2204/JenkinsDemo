@@ -8,7 +8,7 @@ public class JenkinsDemo {
 
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("test number");
+		System.out.println("enter number");
 		
 		int n = sc.nextInt();
 		
